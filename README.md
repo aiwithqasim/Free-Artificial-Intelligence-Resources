@@ -8,11 +8,11 @@
   <img src="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/test/Images/companies.jpg">
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/mrsaeeddev/free-ai-resources)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/mrsaeeddev/free-ai-resources)
-![GitHub contributors](https://img.shields.io/github/contributors/mrsaeeddev/free-ai-resources)
-![GitHub](https://img.shields.io/github/license/mrsaeeddev/free-ai-resources)
-![Twitter Follow](https://img.shields.io/twitter/follow/mrsaeeddev?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/mrsaeeddev/free-ai-resources?style=social)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/qasim1020/Free-Artificial-Intelligence-Resources?color=green&logo=gitHUb)
+![GitHub contributors](https://img.shields.io/github/contributors/qasim1020/Free-Artificial-Intelligence-Resources?color=green)
+![GitHub](https://img.shields.io/twitter/url?label=GitHub&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2Fqasim1020)
+![LinkedIn Follow](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fqasim-hassan%2F)
+![GitHub stars](https://img.shields.io/packagist/stars/qasim1020/Free-Artificial-Intelligence-Resources?color=green&logo=GitHub&style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/qasim1020/Free-Artificial-Intelligence-Resources/test?color=%09%23008000&logo=github)
 
 </h1>
