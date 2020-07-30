@@ -12,7 +12,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/qasim1020/Free-Artificial-Intelligence-Resources?color=green)
 ![GitHub](https://img.shields.io/twitter/url?label=GitHub&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2Fqasim1020)
 ![LinkedIn Follow](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fqasim-hassan%2F)
-![GitHub stars](https://img.shields.io/packagist/stars/qasim1020/Free-Artificial-Intelligence-Resources?color=green&logo=GitHub&style=social)
+![GitHub stars](https://img.shields.io/packagist/stars/qasim1020/Free-Artificial-Intelligence-Resources?color=green&logo=GItHub)
 
 
 </h1>
