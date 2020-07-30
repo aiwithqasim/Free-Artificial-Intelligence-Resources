@@ -13,6 +13,7 @@
 ![GitHub](https://img.shields.io/github/license/mrsaeeddev/free-ai-resources)
 ![Twitter Follow](https://img.shields.io/twitter/follow/mrsaeeddev?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/mrsaeeddev/free-ai-resources?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/qasim1020/Free-Artificial-Intelligence-Resources/test?color=%09%23008000&logo=github)
 
 </h1>
 <br/>
