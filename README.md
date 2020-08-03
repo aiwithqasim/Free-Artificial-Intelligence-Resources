@@ -83,6 +83,10 @@
 - StarCraft Artificial Intelligence Tournament - https://www.youtube.com/user/certicky/videos
 - Sentdex - Data Analysis Tutorials - https://www.youtube.com/c/sentdex/videos
 
+### TOP BLOG RELATED AI,DL,ML
+- Applications of DeepLearning - https://towardsdatascience.com/how-deep-learning-can-keep-you-safe-with-real-time-crime-alerts-95778aca5e8a
+
+
 
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or maybe you want to suggest something.
