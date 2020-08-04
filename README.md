@@ -85,6 +85,7 @@
 
 ### TOP BLOG RELATED AI,DL,ML
 - Applications of DeepLearning - https://towardsdatascience.com/how-deep-learning-can-keep-you-safe-with-real-time-crime-alerts-95778aca5e8a
+- Pros & cons of AI -https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/?cn-reloaded=1
 
 
 
