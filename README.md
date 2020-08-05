@@ -87,6 +87,7 @@
 - Applications of DeepLearning - https://towardsdatascience.com/how-deep-learning-can-keep-you-safe-with-real-time-crime-alerts-95778aca5e8a
 - Pros & cons of AI -https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/?cn-reloaded=1
 - Applying Mathematics — Data Science & Machine Learning -https://medium.com/swlh/applying-mathematics-data-science-machine-learning-980b63fa63ab
+-  Using AI to Create Abstract Art -https://towardsdatascience.com/machineray-using-ai-to-create-abstract-art-39829438076a
 
 
 
