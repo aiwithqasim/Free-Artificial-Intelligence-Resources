@@ -21,7 +21,7 @@
 
 
 ### FREE AI WEBSITES:
--W3School -https://www.w3schools.com/python/python_ml_getting_started.asp
+- W3School -https://www.w3schools.com/python/python_ml_getting_started.asp
 
 ### FREE AI COURSES:
 - EdX’s Artificial Intelligence - https://www.edx.org/course/artificial-intelligence-ai
