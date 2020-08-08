@@ -58,6 +58,7 @@
 
 ### FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES
 - CVPR 2020: Neural Rendering - https://www.neuralrender.com/
+- Introduction to Machine Learning Problem Framing from Google - https://developers.google.com/machine-learning/problem-framing
 
 ### AI RESEARCH AT BIG COMPANIES:
 - Machine Learning at Apple - https://machinelearning.apple.com/
