@@ -98,6 +98,7 @@
 
 ### ARTIFICIAL INTELLIGENCE JOB'S:
 - Jobs through Kaggle - https://www.kaggle.com/jobs
+- Ai Jobs - https://ai-jobs.net/
 
 
 
