@@ -97,7 +97,7 @@
 - Dialogflow Tutorial: Back Functionality in Chatbot using Python + Django -https://chatbotslife.com/dialogflow-tutorial-back-functionality-in-chatbot-using-python-django-eb2ce921dd19
 
 ### ARTIFICIAL INTELLIGENCE JOB'S:
--Jobs through Kaggle - https://www.kaggle.com/jobs
+- Jobs through Kaggle - https://www.kaggle.com/jobs
 
 
 
