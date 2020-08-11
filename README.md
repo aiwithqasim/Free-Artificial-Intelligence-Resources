@@ -98,6 +98,7 @@
 
 ### TOP COMPETATIVE DATA SCIENCE PLATFORMS
 - Kaggle - https://www.kaggle.com/
+- Data Driven - https://www.drivendata.org/
 
 ### ARTIFICIAL INTELLIGENCE JOB'S:
 - Jobs through Kaggle - https://www.kaggle.com/jobs
