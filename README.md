@@ -96,6 +96,9 @@
 -  Using AI to Create Abstract Art -https://towardsdatascience.com/machineray-using-ai-to-create-abstract-art-39829438076a
 - Dialogflow Tutorial: Back Functionality in Chatbot using Python + Django -https://chatbotslife.com/dialogflow-tutorial-back-functionality-in-chatbot-using-python-django-eb2ce921dd19
 
+### TOP COMPETATIVE DATA SCIENCE PLATFORMS
+- Kaggle - https://www.kaggle.com/
+
 ### ARTIFICIAL INTELLIGENCE JOB'S:
 - Jobs through Kaggle - https://www.kaggle.com/jobs
 - Ai Jobs - https://ai-jobs.net/
