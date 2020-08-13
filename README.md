@@ -100,6 +100,7 @@
 - Kaggle - https://www.kaggle.com/
 - Data Driven - https://www.drivendata.org/
 - Crowdanalytix - https://www.crowdanalytix.com/
+- CrowdAI - https://www.crowdai.org/
 
 ### ARTIFICIAL INTELLIGENCE JOB'S:
 - Jobs through Kaggle - https://www.kaggle.com/jobs
