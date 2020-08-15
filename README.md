@@ -107,7 +107,7 @@
 - Jobs through Kaggle - https://www.kaggle.com/jobs
 - Ai Jobs - https://ai-jobs.net/
 - Artificial Inteligence Jobs at Indeed - https://www.indeed.com/q-Artificial-Intelligence-jobs.html
-
+- Innocentive - https://www.innocentive.com/ 
 
 
 # CONTRIBUTION GUIDELINES:
