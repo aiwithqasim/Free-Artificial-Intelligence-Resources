@@ -95,6 +95,7 @@
 - Applying Mathematics — Data Science & Machine Learning -https://medium.com/swlh/applying-mathematics-data-science-machine-learning-980b63fa63ab
 -  Using AI to Create Abstract Art -https://towardsdatascience.com/machineray-using-ai-to-create-abstract-art-39829438076a
 - Dialogflow Tutorial: Back Functionality in Chatbot using Python + Django -https://chatbotslife.com/dialogflow-tutorial-back-functionality-in-chatbot-using-python-django-eb2ce921dd19
+- Amazon Wants to Make You an ML Practitioner— For Free- https://towardsdatascience.com/amazon-wants-to-make-you-an-ml-practitioner-for-free-552c46cea9ba
 
 ### TOP COMPETATIVE DATA SCIENCE PLATFORMS
 - Kaggle - https://www.kaggle.com/
