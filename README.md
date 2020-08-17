@@ -103,6 +103,7 @@
 - Crowdanalytix - https://www.crowdanalytix.com/
 - CrowdAI - https://www.crowdai.org/
 - Codalab - https://codalab.org/
+- Numerai - https://numer.ai/
 
 ### ARTIFICIAL INTELLIGENCE JOB'S:
 - Jobs through Kaggle - https://www.kaggle.com/jobs
