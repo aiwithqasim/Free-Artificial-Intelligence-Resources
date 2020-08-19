@@ -111,6 +111,8 @@
 - Artificial Inteligence Jobs at Indeed - https://www.indeed.com/q-Artificial-Intelligence-jobs.html
 - Innocentive - https://www.innocentive.com/ 
 
+### PROJECT FOR PRACTISE
+- DOG Breed Classifcation (DATA SCIENCE )  - https://github.com/qasim1020/DeepLearning-Q3/tree/master/DogBreedClassification
 
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or maybe you want to suggest something.
