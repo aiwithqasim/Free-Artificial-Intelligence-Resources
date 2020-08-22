@@ -28,7 +28,7 @@ AI is a world’s leading multidisciplinary science Industry.In this Blog I'll p
 <li>Becuase in AI Industry Your audience will be larger, and we’ll make sure to spread the word on our social media channels and  our networks  as much as we can, we have seen a high engagement rate with high-quality articles.</li>
 <li>you'll get to know the world best free resources.</li>
 <li>Network with our community.</li>
-<li>Obtain feedback as necessary.<li>
+<li>Obtain feedback as necessary.</li>
  </ul>
  
  ### Clearing the Confusion: AI vs Machine Learning vs Deep Learning Differences
@@ -45,11 +45,16 @@ Therefore, is there a difference between artificial intelligence, machine learni
 
 Here is an image that attempts to visualize the distinction between them:<br>
 
-<img href = "">
+
+<h1 align="center">
+    <a href="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources">
+        <img src = "https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/work/Images/Difference.png" width = "380" height = "380" alr = "Image">
+    </a>   
+</h1>
 
 As you can see on the above image of three concentric circles, DL is a subset of ML, which is also a subset of AI.Interesting?
 
-So, AI is the all-encompassing concept that initially erupted, then followed by ML that thrived later, and lastly DL that is promising to escalate the advances of AI to another level.Let’s dig deeper so that you can understand which is better for your specific use case: artificial intelligence, machine learning, or deep learning.<a src = "">more</a>
+So, AI is the all-encompassing concept that initially erupted, then followed by ML that thrived later, and lastly DL that is promising to escalate the advances of AI to another level.For diging deeper to understand which is better for your click on <a href = "https://medium.com/ds3ucsd/explaining-the-terms-ai-ml-dl-ds-b0ac43e99f55">more</a>
 
 
 ### FREE AI COURSES:
