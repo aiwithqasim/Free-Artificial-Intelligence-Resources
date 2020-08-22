@@ -20,7 +20,7 @@
 <br/>
 
 ### Get Published With AI
-AI is a world’s leading multidisciplinary science Industry.In this Blog I'll publishes the best of free resources regarding AI which suggested & Read by thought-leaders and decision-makers around the world.
+AI is a world’s leading multidisciplinary science Industry.In this Blog I'll publishes the best of free resources regarding AI which are suggested & Read by thought-leaders and decision-makers around the world.
 
 ### Why should you become a contributor with Towards AI & in this Project ?
 
@@ -33,11 +33,7 @@ AI is a world’s leading multidisciplinary science Industry.In this Blog I'll p
  
  ### Clearing the Confusion: AI vs Machine Learning vs Deep Learning Differences
  
-Raise your hand if you’ve been caught in the confusion of differentiating artificial intelligence (AI) vs machine learning (ML) vs deep learning (DL)… </br>
-
-Bring down your hand, buddy, we can’t see it!</br>
-
-Although the three terminologies are usually used interchangeably, they do not quite refer to the same things.</br>
+Raise your hand if you’ve been caught in the confusion of differentiating artificial intelligence (AI) vs machine learning (ML) vs deep learning (DL).Bring down your hand, buddy, we can’t see it! Although the three terminologies are usually used interchangeably, they do not quite refer to the same things.</br>
 
 Andrey Bulezyuk, who is a German-based computer expert and has more than five years of experience in teaching people how artificial intelligence systems work, says that “practitioners in this field can clearly articulate the differences between the three closely-related terms.”</br>
 
