@@ -136,9 +136,20 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw" target="_blank"> Amazon Machine Learning University </a></li>
 </ul>
 
-# CONTRIBUTION GUIDELINES:
-Feel free to open a PR if you feel like something needs to be added or you want to suggest something then your commit message should be in given format: **added <resource_name> to <section_name>**
+### Guidelines:
 
-##### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it!
+#### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it!
 
-*Important Notice: All product names, logos, and brands are property of their respective owners. All company, product and service names used in this repository are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.*
+<ul>
+<li>Please submit unpublished drafts with at least some Intresting Free resources anout AI.</li>
+<li>Feel free to open a PR if you feel like something needs to be added or you want to suggest something then your commit message should be in given format: <b>added <resource_name> to <section_name></b></li>
+<li>We do not accept plagiarism. You may reference text from other sources, but it must be referenced ([1][2] and so on), and it cannot exceed 10% of an author’s content. Otherwise, we will reject your article.</li>
+<li>Try to captivate your audience with a nice image — open-source images can be found at Pixabay, Unsplash, StockSnap, Flickr, Pexels, Burst, The Stocks.</li>
+<li>Make sure your story has meaning — give more than you get.</li>
+<li>No heavy self-promotion please, you can talk about your business, ventures, and others, yet, make sure that your audience stays on-board, and we prefer it to be on the bottom of the article after you have shared your insights and work.</li>
+</li>Please utilize a grammar and readability tool such as <b>Grammarly</b>. If your article has too many grammatical errors, it won’t be accepted.</li>
+
+</ul>
+
+### Important Notice:
+<i>All product names, logos, and brands are property of their respective owners. All company, product and service names used in this repository are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.</i>
