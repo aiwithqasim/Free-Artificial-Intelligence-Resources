@@ -88,6 +88,10 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187" target="_blank"> Google’s Deep Learning Course </a></li>
 <li><a href = "https://course.fast.ai/" target="_blank"> Practical Deep Learning for Coders </a></li>
 <li><a href = "https://course.fast.ai/part2" target="_blank"> Deep Learning from the Foundations </a></li>
+<li><a href = "https://lnkd.in/fJ2-WJm" target="_blank">Introduction to Deep Learning</a></li>
+<li><a href = "https://lnkd.in/fw6CVus" target="_blank">Deep Sequence Modelling</a></li>
+<li><a href = "https://lnkd.in/fqWUtqd" target="_blank">Deep Learning for Computer Vision</a></li>
+<li><a href = "https://lnkd.in/f2_66T2" target="_blank">Deep Generative Models</a></li>
 </ul>
 
 ### FREE NLP COURSES:
