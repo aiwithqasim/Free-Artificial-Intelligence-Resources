@@ -152,9 +152,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [AI Product Manager Nanodegree](https://mega.nz/file/F1hUXCIK#0uvURzJv2G3Il39or2PGr90loQUzh9CxqYiqOElxm20) | Udacity | 2 months | 2-5 hours / week | self-paced | none
 [Data Engineering Nanodegree](https://mega.nz/file/14hEiCQB#20knbJN_TMKCk9ckSAGMLpn2W8eURztAO-c-vs2mC1g) | Udacity | 5 months | 5 hrs / week | self-paced | Intermediate Python & SQL
 
-
-
-
 ### CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or you want to suggest something then your commit message should be in given format: **added <resource_name> to <section_name>**
 
