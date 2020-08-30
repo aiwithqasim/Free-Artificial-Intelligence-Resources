@@ -79,6 +79,8 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 ### FREE DATA SCIENCE COURSES:
 <ul>
 <li><a href = "https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank"> IBM Data Science Professional Certificate </a></li>
+<li><a href = "https://lnkd.in/fhEUuXMe" target="_blank">Data Science Training Videos</a></li>
+<li><a href = "https://lnkd.in/f6CAxe7" target="_blank">Data Analysis in Python and Pandas</a></li>  
 </ul>
 
 ### FREE DEEP LEARNING COURSES:
