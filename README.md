@@ -148,9 +148,9 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Machine Learning Engineer Nanodegree](https://mega.nz/file/B1wUgaxJ#7DGzzv9qhEsFtSVhKoe8pkc1FcA0ZjIpldqDZoKyC1M) | Udacity | 3 months | 10 hours / week | self-paced | Intermediate Python & ML
 [AI for Healthcare Nanodegree Program](https://mega.nz/file/445mVAIT#O8_7ZquR2IEpv7vvs_B_iJVe8kdsat3rljzQOS8goG0) | Udacity | 4 months | 15 hours / week | self-paced | Intermediate Python & ML
-[Intel® Edge AI for IoT Developers Nanodegree Program](https://mega.nz/file/50pSUS4L#ihhAZMc2RpzK6l5HwUIrySAJ5CgY0hF3-Oroi5xcP2s) | Udacity | 3 months | At 10 hours / week | self-paced | Intermediate Python & DL
-[AI Product Manager Nanodegree](https://mega.nz/file/F1hUXCIK#0uvURzJv2G3Il39or2PGr90loQUzh9CxqYiqOElxm20) | Udacity | 2 months | 2-5 hours/week | self-paced | none
-[Data Engineering Nanodegree](https://mega.nz/file/14hEiCQB#20knbJN_TMKCk9ckSAGMLpn2W8eURztAO-c-vs2mC1g) | Udacity | 5 months | 5 hrs/week | self-paced | Intermediate Python & SQL
+[Intel® Edge AI for IoT Developers Nanodegree Program](https://mega.nz/file/50pSUS4L#ihhAZMc2RpzK6l5HwUIrySAJ5CgY0hF3-Oroi5xcP2s) | Udacity | 3 months | 10 hours / week | self-paced | Intermediate Python & DL
+[AI Product Manager Nanodegree](https://mega.nz/file/F1hUXCIK#0uvURzJv2G3Il39or2PGr90loQUzh9CxqYiqOElxm20) | Udacity | 2 months | 2-5 hours / week | self-paced | none
+[Data Engineering Nanodegree](https://mega.nz/file/14hEiCQB#20knbJN_TMKCk9ckSAGMLpn2W8eURztAO-c-vs2mC1g) | Udacity | 5 months | 5 hrs / week | self-paced | Intermediate Python & SQL
 
 
 
