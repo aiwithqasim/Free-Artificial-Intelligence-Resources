@@ -154,13 +154,7 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://1337x.is/torrent/3413739/UDACITY-NLP-Foundations-Nanodegree/" > Udacity | NLP Foundations Nanodegree </a></li>
 </ul>
 
-
-# CONTRIBUTION GUIDELINES:
-Feel free to open a PR if you feel like something needs to be added or you want to suggest something then your commit message should be in given format: **added <resource_name> to <section_name>**
-=======
 ### Guidelines:
->>>>>>> 8cf93d09bbbea7ac06dbaed9b90909fe8a6dc222
-
 #### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it!
 
 <ul>
