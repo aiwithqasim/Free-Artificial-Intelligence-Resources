@@ -19,6 +19,39 @@
 <br/>
 <br/>
 
+### Get Published With AI
+AI is a world’s leading multidisciplinary science Industry.In this Blog I'll publishes the best of free resources regarding AI which are suggested & Read by thought-leaders and decision-makers around the world.
+
+### Why should you become a contributor with Towards AI & in this Project ?
+
+<ul>
+<li>Becuase in AI Industry Your audience will be larger, and we’ll make sure to spread the word on our social media channels and  our networks  as much as we can, we have seen a high engagement rate with high-quality articles.</li>
+<li>you'll get to know the world best free resources.</li>
+<li>Network with our community.</li>
+<li>Obtain feedback as necessary.</li>
+ </ul>
+ 
+ ### Clearing the Confusion: AI vs Machine Learning vs Deep Learning Differences
+ 
+Raise your hand if you’ve been caught in the confusion of differentiating artificial intelligence (AI) vs machine learning (ML) vs deep learning (DL).Bring down your hand, buddy, we can’t see it! Although the three terminologies are usually used interchangeably, they do not quite refer to the same things.</br>
+
+Andrey Bulezyuk, who is a German-based computer expert and has more than five years of experience in teaching people how artificial intelligence systems work, says that “practitioners in this field can clearly articulate the differences between the three closely-related terms.”</br>
+
+Therefore, is there a difference between artificial intelligence, machine learning, and deep learning?</br>
+
+Here is an image that attempts to visualize the distinction between them:<br>
+
+
+<h1 align="center">
+    <a href="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources">
+        <img src = "https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/work/Images/Difference.png" width = "380" height = "380" alr = "Image">
+    </a>   
+</h1>
+
+As you can see on the above image of three concentric circles, DL is a subset of ML, which is also a subset of AI.Interesting?
+
+So, AI is the all-encompassing concept that initially erupted, then followed by ML that thrived later, and lastly DL that is promising to escalate the advances of AI to another level.For diging deeper to understand which is better for your click on <a href = "https://medium.com/ds3ucsd/explaining-the-terms-ai-ml-dl-ds-b0ac43e99f55">more</a>
+
 
 ### FREE AI COURSES:
 <ul>
@@ -46,6 +79,8 @@
 ### FREE DATA SCIENCE COURSES:
 <ul>
 <li><a href = "https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank"> IBM Data Science Professional Certificate </a></li>
+<li><a href = "https://lnkd.in/fhEUuXMe" target="_blank">Data Science Training Videos</a></li>
+<li><a href = "https://lnkd.in/f6CAxe7" target="_blank">Data Analysis in Python and Pandas</a></li>  
 </ul>
 
 ### FREE DEEP LEARNING COURSES:
@@ -53,6 +88,10 @@
 <li><a href = "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187" target="_blank"> Google’s Deep Learning Course </a></li>
 <li><a href = "https://course.fast.ai/" target="_blank"> Practical Deep Learning for Coders </a></li>
 <li><a href = "https://course.fast.ai/part2" target="_blank"> Deep Learning from the Foundations </a></li>
+<li><a href = "https://lnkd.in/fJ2-WJm" target="_blank">Introduction to Deep Learning</a></li>
+<li><a href = "https://lnkd.in/fw6CVus" target="_blank">Deep Sequence Modelling</a></li>
+<li><a href = "https://lnkd.in/fqWUtqd" target="_blank">Deep Learning for Computer Vision</a></li>
+<li><a href = "https://lnkd.in/f2_66T2" target="_blank">Deep Generative Models</a></li>
 </ul>
 
 ### FREE NLP COURSES:
@@ -103,6 +142,7 @@
 <li><a href = "https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw" target="_blank"> Amazon Machine Learning University </a></li>
 </ul>
 
+<<<<<<< HEAD
 ### Course Downloads
 
 <ul>
@@ -118,7 +158,22 @@
 
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or you want to suggest something then your commit message should be in given format: **added <resource_name> to <section_name>**
+=======
+### Guidelines:
+>>>>>>> 8cf93d09bbbea7ac06dbaed9b90909fe8a6dc222
 
-##### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it!
+#### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it!
 
-*Important Notice: All product names, logos, and brands are property of their respective owners. All company, product and service names used in this repository are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.*
+<ul>
+<li>Please submit unpublished drafts with at least some Intresting Free resources anout AI.</li>
+<li>Feel free to open a PR if you feel like something needs to be added or you want to suggest something then your commit message should be in given format: <b>added to -->resource_name-->section_name </b></li>
+<li>We do not accept plagiarism. You may reference text from other sources, but it must be referenced ([1][2] and so on), and it cannot exceed 10% of an author’s content. Otherwise, we will reject your article.</li>
+<li>Try to captivate your audience with a nice image — open-source images can be found at Pixabay, Unsplash, StockSnap, Flickr, Pexels, Burst, The Stocks.</li>
+<li>Make sure your story has meaning — give more than you get.</li>
+<li>No heavy self-promotion please, you can talk about your business, ventures, and others, yet, make sure that your audience stays on-board, and we prefer it to be on the bottom of the article after you have shared your insights and work.</li>
+</li>Please utilize a grammar and readability tool such as <b>Grammarly</b>. If your article has too many grammatical errors, it won’t be accepted.</li>
+
+</ul>
+
+### Important Notice:
+<i>All product names, logos, and brands are property of their respective owners. All company, product and service names used in this repository are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.</i>
