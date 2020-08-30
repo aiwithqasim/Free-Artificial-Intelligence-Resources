@@ -142,7 +142,6 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw" target="_blank"> Amazon Machine Learning University </a></li>
 </ul>
 
-<<<<<<< HEAD
 ### Course Downloads
 
 <ul>
