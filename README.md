@@ -1,3 +1,4 @@
+
 <h1 align="center">
     <a href="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/tree/test/Images">
         <img src="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/test/Images/logo.png">
@@ -20,15 +21,14 @@
 <br/>
 
 ### Get Published With AI
-AI is a world’s leading multidisciplinary science Industry.In this Blog I'll publishes the best of free resources regarding AI which are suggested & Read by thought-leaders and decision-makers around the world.
+AI is a world’s leading multidisciplinary science Industry and the future of computing. Here I publish the best and free resources related to AI that have been suggested and read by thought-leaders and decision-makers around the world.
 
-### Why should you become a contributor with Towards AI & in this Project ?
+### Why should you contribute in this OpenSource Project ?
 
 <ul>
-<li>Becuase in AI Industry Your audience will be larger, and we’ll make sure to spread the word on our social media channels and  our networks  as much as we can, we have seen a high engagement rate with high-quality articles.</li>
-<li>you'll get to know the world best free resources.</li>
-<li>Network with our community.</li>
-<li>Obtain feedback as necessary.</li>
+<li>Because in AI Industry, your audience will be larger and we’ll make sure to spread the word not only on our social media channels, but our all networks as much as we could. We have seen a high engagement rate with high-quality articles.</li>
+<li>You'll get to know the best and free resources including latest articles, news and be able to download resources</li>
+<li>Grow with our community and be able to get feedback as necessary.</li>
  </ul>
  
  ### Clearing the Confusion: AI vs Machine Learning vs Deep Learning Differences
@@ -48,9 +48,9 @@ Here is an image that attempts to visualize the distinction between them:<br>
     </a>   
 </h1>
 
-As you can see on the above image of three concentric circles, DL is a subset of ML, which is also a subset of AI.Interesting?
+From above image, you can see DL is a subset of ML, which is also a subset of AI. Interesting, right?
 
-So, AI is the all-encompassing concept that initially erupted, then followed by ML that thrived later, and lastly DL that is promising to escalate the advances of AI to another level.For diging deeper to understand which is better for your click on <a href = "https://medium.com/ds3ucsd/explaining-the-terms-ai-ml-dl-ds-b0ac43e99f55">more</a>
+So, AI is the all-encompassing concept that initially erupted, then followed by ML that thrived later, and lastly DL that is promising to escalate the advances of AI to another level. If you want to learn more then click <a href = "https://medium.com/ds3ucsd/explaining-the-terms-ai-ml-dl-ds-b0ac43e99f55">here.</a>
 
 
 ### FREE AI COURSES:
@@ -144,17 +144,19 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 
 ### Course Downloads
 
-<ul>
-<li><a href = "magnet:?xt=urn:btih:0267528BFB7734DB0CAA39CC506D9D87C46BEF6A&dn=Udacity+%7C+Machine+Learning+Engineer+Nanodegree+v4.0.0+%5BFCO%5D&tr=udp%3A%2F%2Fopentor.org%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce" > Udacity | Machine Learning Engineer Nanodegree </a></li>
-<li><a href = "magnet:?xt=urn:btih:05DBFA48586D3C63B61759A5421152278E311163&dn=Udacity+%7C+AI+for+Healthcare+%7C+Nanodegree+Program+%5BFCO%5D&tr=udp%3A%2F%2Fopentor.org%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce" > Udacity | AI for Healthcare Nanodegree Program </a></li>
-<li><a href = "magnet:?xt=urn:btih:AAFAE13406FCA94DF6C8FBEC0ACFE0ED08680529&dn=Udacity+%7C+Intel%26reg%3B+Edge+AI+for+IoT+Developers+%7C+Nanodegree+Program+%5BFCO%5D&tr=udp%3A%2F%2Fopentor.org%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce" > Udacity | Intel® Edge AI for IoT Developers Nanodegree Program </a></li>
-<li><a href = "magnet:?xt=urn:btih:849C32590B7CFB22FF0FCBEC27E33921453B65A9&dn=Udacity+%7C+Natural+Language+Processing+Nanodegree+v1.0.0+%5BFCO%5D&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=https%3A%2F%2Ftracker.fastdownload.xyz%3A443%2Fannounce&tr=https%3A%2F%2Fopentracker.xyz%3A443%2Fannounce&tr=https%3A%2F%2Ft.quic.ws%3A443%2Fannounce&tr=udp%3A%2F%2Fretracker.netbynet.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.parrotsec.org%3A443%2Fannounce&tr=http%3A%2F%2Fopentracker.h4ck.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.supertracker.net%3A1337%2Fannounce&tr=http%3A%2F%2Fweb4.obit.ru%3A80%2Fannounce&tr=http%3A%2F%2Fgwp2-v19.rinet.ru%3A80%2Fannounce&tr=http%3A%2F%2Fmail2.zelenaya.net%3A80%2Fannounce&tr=udp%3A%2F%2Fhome.penza.com.ru%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce" > Udacity | Natural Language Processing Nanodegree </a></li>
-<li><a href = "magnet:?xt=urn:btih:F4AFBAC627A859C20F1E7E2B11B2D7789D3ED36C&dn=%5BUDACITY%5D+Deep+Learning+Nanodegree+Program+-+%5BFCO%5D&tr=https%3A%2F%2Ftracker.fastdownload.xyz%3A443%2Fannounce&tr=udp%3A%2F%2Ftw.opentracker.ga%3A36920%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=https%3A%2F%2Fseeders-paradise.org%3A443%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fhk1.opentracker.ga%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.xyz%3A443%2Fannounce&tr=https%3A%2F%2Ft.quic.ws%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.fastdownload.xyz%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fzephir.monocul.us%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce" > Udacity | Deep Learning Nanodegree Program </a></li>
-<li><a href = "magnet:?xt=urn:btih:EF455B318A2C60FF9D42970425346061E82E45A7&dn=Udacity+%7C+AI+Product+Manager+ND+v1.0.0+%5BFCO%5D&tr=udp%3A%2F%2Fzephir.monocul.us%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fseedbay.net%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.ds.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.filepit.to%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.nyaa.uk%3A6969%2Fannounce&tr=udp%3A%2F%2Fnewtoncity.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.vectahosting.eu%3A2053%2Fannounce&tr=https%3A%2F%2Ftracker.nanoha.org%3A443%2Fannounce&tr=udp%3A%2F%2Fretracker.akado-ural.ru%3A80%2Fannounce&tr=https%3A%2F%2Ftracker.publictorrent.net%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce" > Udacity | AI Product Manager Nanodegree </a></li>
-<li><a href = "https://1337x.is/torrent/3413739/UDACITY-NLP-Foundations-Nanodegree/" > Udacity | NLP Foundations Nanodegree </a></li>
-</ul>
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Machine Learning Engineer Nanodegree](https://mega.nz/file/B1wUgaxJ#7DGzzv9qhEsFtSVhKoe8pkc1FcA0ZjIpldqDZoKyC1M) | Udacity | 3 months | 10 hours / week | self-paced | Intermediate Python & ML
+[AI for Healthcare Nanodegree Program](https://mega.nz/file/445mVAIT#O8_7ZquR2IEpv7vvs_B_iJVe8kdsat3rljzQOS8goG0) | Udacity | 4 months | 15 hours / week | self-paced | Intermediate Python & ML
+[Intel® Edge AI for IoT Developers Nanodegree Program](https://mega.nz/file/50pSUS4L#ihhAZMc2RpzK6l5HwUIrySAJ5CgY0hF3-Oroi5xcP2s) | Udacity | 3 months | 10 hours / week | self-paced | Intermediate Python & DL
+[AI Product Manager Nanodegree](https://mega.nz/file/F1hUXCIK#0uvURzJv2G3Il39or2PGr90loQUzh9CxqYiqOElxm20) | Udacity | 2 months | 2-5 hours / week | self-paced | none
+[Data Engineering Nanodegree](https://mega.nz/file/14hEiCQB#20knbJN_TMKCk9ckSAGMLpn2W8eURztAO-c-vs2mC1g) | Udacity | 5 months | 5 hrs / week | self-paced | Intermediate Python & SQL
+
+### CONTRIBUTION GUIDELINES:
+Feel free to open a PR if you feel like something needs to be added or you want to suggest something then your commit message should be in given format: **added <resource_name> to <section_name>**
 
 ### Guidelines:
+
 #### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it!
 
 <ul>
