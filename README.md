@@ -152,16 +152,15 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [AI Product Manager Nanodegree](https://mega.nz/file/F1hUXCIK#0uvURzJv2G3Il39or2PGr90loQUzh9CxqYiqOElxm20) | Udacity | 2 months | 2-5 hours / week | self-paced | none
 [Data Engineering Nanodegree](https://mega.nz/file/14hEiCQB#20knbJN_TMKCk9ckSAGMLpn2W8eURztAO-c-vs2mC1g) | Udacity | 5 months | 5 hrs / week | self-paced | Intermediate Python & SQL
 
-### CONTRIBUTION GUIDELINES:
-Feel free to open a PR if you feel like something needs to be added or you want to suggest something then your commit message should be in given format: **added <resource_name> to <section_name>**
-
-### Guidelines:
+### Contribution Guideline:
+Feel free to open a PR if you feel like something needs to be added or you want to suggest something then your commit message should be in given format: <b>added to -->resource_name-->section_name </b>
 
 #### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it!
 
+### Terms & Conditions:
 <ul>
+    
 <li>Please submit unpublished drafts with at least some Intresting Free resources anout AI.</li>
-<li>Feel free to open a PR if you feel like something needs to be added or you want to suggest something then your commit message should be in given format: <b>added to -->resource_name-->section_name </b></li>
 <li>We do not accept plagiarism. You may reference text from other sources, but it must be referenced ([1][2] and so on), and it cannot exceed 10% of an author’s content. Otherwise, we will reject your article.</li>
 <li>Try to captivate your audience with a nice image — open-source images can be found at Pixabay, Unsplash, StockSnap, Flickr, Pexels, Burst, The Stocks.</li>
 <li>Make sure your story has meaning — give more than you get.</li>
