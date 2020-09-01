@@ -1,7 +1,7 @@
 
 <h1 align="center">
     <a href="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/tree/test/Images">
-        <img src="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/test/Images/logo.png">
+        <img src="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/test/Images/Logo.png">
     </a>
     <br/>
     <br/>
