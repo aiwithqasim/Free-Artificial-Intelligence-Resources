@@ -83,6 +83,11 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://lnkd.in/f6CAxe7" target="_blank">Data Analysis in Python and Pandas</a></li>  
 </ul>
 
+### DATASET REPOSITORIES:
+<ul>
+    <li><a href = "https://data.world/datasets/open-data" target="_blank">Data World</a></li>
+<ul>
+
 ### FREE DEEP LEARNING COURSES:
 <ul>
 <li><a href = "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187" target="_blank"> Google’s Deep Learning Course </a></li>
