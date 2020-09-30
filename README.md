@@ -86,7 +86,9 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 ### DATASET REPOSITORIES:
 <ul>
     <li><a href = "https://data.world/datasets/open-data" target="_blank">Data World</a></li>
-<ul>
+    <li><a href = "https://datasetsearch.research.google.com/" target="_blank">Google Data Sets</a></li>
+    <li><a href = "https://www.kaggle.com/datasets" target="_blank">Kaggle Data Sets</a></li>
+</ul>
 
 ### FREE DEEP LEARNING COURSES:
 <ul>
