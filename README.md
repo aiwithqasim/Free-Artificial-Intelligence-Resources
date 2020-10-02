@@ -60,6 +60,8 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "http://web.stanford.edu/class/cs221/" target="_blank"> Artificial Intelligence: Principles and Techniques By Stanford </a></li>
 <li><a href = "https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373" target="_blank"> Udacity’s Artificial Intelligence for Robotics by Georgia Tech </a></li>
 <li><a href = "https://cognitiveclass.ai/" target="_blank"> IBM's Data Science and Cognitive Computing courses </a></li>
+<li><a href = "http://introtodeeplearning.com/" target="_blank">MIT Deep Learning</a></li>
+    
 </ul>
 
 ### FREE MACHINE LEARNING COURSES:
