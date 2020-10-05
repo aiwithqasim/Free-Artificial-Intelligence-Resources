@@ -104,7 +104,6 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://lnkd.in/fpptKs4" target="_blank">Deep Learning Basics</a></li>
 <li><a href = "https://lnkd.in/fZfj3UA" target="_blank">Deep Learning tutorial</a></li>
 <li><a href = "https://lnkd.in/f9t35fx" target="_blank"></a>Deep Learning with TensorFlow</li>
-    <li><a href = "" target="_blank"></a></li>
 </ul>
 
 ### FREE NLP COURSES:
