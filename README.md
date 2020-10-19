@@ -119,7 +119,7 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 ### STATISTICAL SOFTWARE FOR BEGINNERS
 <ul>
     <li><a href = "https://lnkd.in/ecfsV9c">Simple Linear Regression</a></li>
-    <li><a href = "https://lnkd.in/ef7Yd7f"></a>Coding Dummy Variables</li>
+    <li><a href = "https://lnkd.in/ef7Yd7f">Coding Dummy Variables</a></li>
     <li><a href = "https://lnkd.in/eNKbxbU">Forecasting New Observations</a></li>
     <li><a href = "https://lnkd.in/eHmibGs">Forecasting a Large Number of Observations</a></li>
     <li><a href = "https://lnkd.in/eRfhQ87">Logistic Regression</a></li>
