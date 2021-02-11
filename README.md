@@ -76,13 +76,16 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://www.edx.org/course/principles-of-machine-learning" target="_blank"> EdX’s Principles of Machine Learning </a></li>
 <li><a href = "https://www.coursera.org/specializations/machine-learning" target="_blank"> Coursera’s Machine Learning Specialization </a></li>
 <li><a href = "https://developers.google.com/machine-learning/crash-course" target="_blank"> Machine Learning Crash Course by Google </a></li>
+<li><a href = "https://developers.google.com/machine-learning/crash-course" target="_blank"> Machine Learning Crash Course by Google </a></li>
+<li><a href = "https://www.freecodecamp.org/learn/machine-learning-with-python/" target="_blank"> Machine Learning With Python By FreeCodeCamp</a></li>
 </ul>
-
+    
 ### FREE DATA SCIENCE COURSES:
 <ul>
 <li><a href = "https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank"> IBM Data Science Professional Certificate </a></li>
 <li><a href = "https://lnkd.in/fhEUuXMe" target="_blank">Data Science Training Videos</a></li>
-<li><a href = "https://lnkd.in/f6CAxe7" target="_blank">Data Analysis in Python and Pandas</a></li>  
+<li><a href = "https:/<li><a href = "https://lnkd.in/f6CAxe7" target="_blank">Data Analysis in Python and Pandas</a>
+<li><a href = "https://www.freecodecamp.org/learn/data-analysis-with-python/" target="_blank">Data Analysis in Python by RMOTR and FreeCodeCamp</a></li> 
 </ul>
 
 ### DATASET REPOSITORIES:
