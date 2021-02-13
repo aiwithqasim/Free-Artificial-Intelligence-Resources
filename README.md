@@ -61,7 +61,7 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373" target="_blank"> Udacity’s Artificial Intelligence for Robotics by Georgia Tech </a></li>
 <li><a href = "https://cognitiveclass.ai/" target="_blank"> IBM's Data Science and Cognitive Computing courses </a></li>
 <li><a href = "http://introtodeeplearning.com/" target="_blank">MIT Deep Learning</a></li>
-    
+<li><a href = "https://course.elementsofai.com/" target="_blank">Elements of AI</a></li>
 </ul>
 
 ### FREE MACHINE LEARNING COURSES:
