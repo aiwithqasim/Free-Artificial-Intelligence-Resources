@@ -1,3 +1,4 @@
+
 <h1 align="center">
     <a href="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/tree/test/Images">
         <img src="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/test/Images/logo.png">
@@ -20,15 +21,14 @@
 <br/>
 
 ### Get Published With AI
-AI is a world’s leading multidisciplinary science Industry.In this Blog I'll publishes the best of free resources regarding AI which are suggested & Read by thought-leaders and decision-makers around the world.
+AI is a world’s leading multidisciplinary science Industry and the future of computing. Here I publish the best and free resources related to AI that have been suggested and read by thought-leaders and decision-makers around the world.
 
-### Why should you become a contributor with Towards AI & in this Project ?
+### Why should you contribute in this OpenSource Project ?
 
 <ul>
-<li>Becuase in AI Industry Your audience will be larger, and we’ll make sure to spread the word on our social media channels and  our networks  as much as we can, we have seen a high engagement rate with high-quality articles.</li>
-<li>you'll get to know the world best free resources.</li>
-<li>Network with our community.</li>
-<li>Obtain feedback as necessary.</li>
+<li>Because in AI Industry, your audience will be larger and we’ll make sure to spread the word not only on our social media channels, but our all networks as much as we could. We have seen a high engagement rate with high-quality articles.</li>
+<li>You'll get to know the best and free resources including latest articles, news and be able to download resources</li>
+<li>Grow with our community and be able to get feedback as necessary.</li>
  </ul>
  
  ### Clearing the Confusion: AI vs Machine Learning vs Deep Learning Differences
@@ -48,9 +48,9 @@ Here is an image that attempts to visualize the distinction between them:<br>
     </a>   
 </h1>
 
-As you can see on the above image of three concentric circles, DL is a subset of ML, which is also a subset of AI.Interesting?
+From above image, you can see DL is a subset of ML, which is also a subset of AI. Interesting, right?
 
-So, AI is the all-encompassing concept that initially erupted, then followed by ML that thrived later, and lastly DL that is promising to escalate the advances of AI to another level.For diging deeper to understand which is better for your click on <a href = "https://medium.com/ds3ucsd/explaining-the-terms-ai-ml-dl-ds-b0ac43e99f55">more</a>
+So, AI is the all-encompassing concept that initially erupted, then followed by ML that thrived later, and lastly DL that is promising to escalate the advances of AI to another level. If you want to learn more then click <a href = "https://medium.com/ds3ucsd/explaining-the-terms-ai-ml-dl-ds-b0ac43e99f55">here.</a>
 
 
 ### FREE AI COURSES:
@@ -60,6 +60,8 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "http://web.stanford.edu/class/cs221/" target="_blank"> Artificial Intelligence: Principles and Techniques By Stanford </a></li>
 <li><a href = "https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373" target="_blank"> Udacity’s Artificial Intelligence for Robotics by Georgia Tech </a></li>
 <li><a href = "https://cognitiveclass.ai/" target="_blank"> IBM's Data Science and Cognitive Computing courses </a></li>
+<li><a href = "http://introtodeeplearning.com/" target="_blank">MIT Deep Learning</a></li>
+<li><a href = "https://course.elementsofai.com/" target="_blank">Elements of AI</a></li>
 </ul>
 
 ### FREE MACHINE LEARNING COURSES:
@@ -74,13 +76,23 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://www.edx.org/course/principles-of-machine-learning" target="_blank"> EdX’s Principles of Machine Learning </a></li>
 <li><a href = "https://www.coursera.org/specializations/machine-learning" target="_blank"> Coursera’s Machine Learning Specialization </a></li>
 <li><a href = "https://developers.google.com/machine-learning/crash-course" target="_blank"> Machine Learning Crash Course by Google </a></li>
+<li><a href = "https://developers.google.com/machine-learning/crash-course" target="_blank"> Machine Learning Crash Course by Google </a></li>
+<li><a href = "https://www.freecodecamp.org/learn/machine-learning-with-python/" target="_blank"> Machine Learning With Python By FreeCodeCamp</a></li>
 </ul>
-
+    
 ### FREE DATA SCIENCE COURSES:
 <ul>
 <li><a href = "https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank"> IBM Data Science Professional Certificate </a></li>
 <li><a href = "https://lnkd.in/fhEUuXMe" target="_blank">Data Science Training Videos</a></li>
-<li><a href = "https://lnkd.in/f6CAxe7" target="_blank">Data Analysis in Python and Pandas</a></li>  
+<li><a href = "https:/<li><a href = "https://lnkd.in/f6CAxe7" target="_blank">Data Analysis in Python and Pandas</a>
+<li><a href = "https://www.freecodecamp.org/learn/data-analysis-with-python/" target="_blank">Data Analysis in Python by RMOTR and FreeCodeCamp</a></li> 
+</ul>
+
+### DATASET REPOSITORIES:
+<ul>
+    <li><a href = "https://data.world/datasets/open-data" target="_blank">Data World</a></li>
+    <li><a href = "https://datasetsearch.research.google.com/" target="_blank">Google Data Sets</a></li>
+    <li><a href = "https://www.kaggle.com/datasets" target="_blank">Kaggle Data Sets</a></li>
 </ul>
 
 ### FREE DEEP LEARNING COURSES:
@@ -92,6 +104,29 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://lnkd.in/fw6CVus" target="_blank">Deep Sequence Modelling</a></li>
 <li><a href = "https://lnkd.in/fqWUtqd" target="_blank">Deep Learning for Computer Vision</a></li>
 <li><a href = "https://lnkd.in/f2_66T2" target="_blank">Deep Generative Models</a></li>
+<li><a href = "https://lnkd.in/fpptKs4" target="_blank">Deep Learning Basics</a></li>
+<li><a href = "https://lnkd.in/fZfj3UA" target="_blank">Deep Learning tutorial</a></li>
+<li><a href = "https://www.youtube.com/playlist?list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg" target="_blank">Deep Learning with TensorFlow</a></li>
+ </ul>
+ 
+### DEEP EARNING BY MIT
+<u>
+    <li><a href = "https://lnkd.in/fJ2-WJm" target="_blank">Introduction to Deep Learning</a></li>
+    <li><a href = "https://lnkd.in/fw6CVus" target="_blank">Deep Sequence Modelling</a></li>
+    <li><a href = "https://lnkd.in/fqWUtqd" target="_blank">Deep Learning for Computer Vision</a></li>
+    <li><a href = "https://lnkd.in/f2_66T2" target="_blank">Deep Generative Models</a></li>
+    <li><a href = "https://lnkd.in/fVxphZd" target="_blank">Deep Reinforcement Learning</a></li>
+    <li><a href = "https://lnkd.in/fKEmBjS" target="_blank">Limitations and New Frontiers</a></li>
+</ul>
+
+### STATISTICAL SOFTWARE FOR BEGINNERS
+<ul>
+    <li><a href = "https://lnkd.in/ecfsV9c">Simple Linear Regression</a></li>
+    <li><a href = "https://lnkd.in/ef7Yd7f">Coding Dummy Variables</a></li>
+    <li><a href = "https://lnkd.in/eNKbxbU">Forecasting New Observations</a></li>
+    <li><a href = "https://lnkd.in/eHmibGs">Forecasting a Large Number of Observations</a></li>
+    <li><a href = "https://lnkd.in/eRfhQ87">Logistic Regression</a></li>
+    
 </ul>
 
 ### FREE NLP COURSES:
@@ -142,13 +177,25 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw" target="_blank"> Amazon Machine Learning University </a></li>
 </ul>
 
-### Guidelines:
+### Course Downloads
+
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Machine Learning Engineer Nanodegree](https://mega.nz/file/B1wUgaxJ#7DGzzv9qhEsFtSVhKoe8pkc1FcA0ZjIpldqDZoKyC1M) | Udacity | 3 months | 10 hours / week | self-paced | Intermediate Python & ML
+[AI for Healthcare Nanodegree Program](https://mega.nz/file/445mVAIT#O8_7ZquR2IEpv7vvs_B_iJVe8kdsat3rljzQOS8goG0) | Udacity | 4 months | 15 hours / week | self-paced | Intermediate Python & ML
+[Intel® Edge AI for IoT Developers Nanodegree Program](https://mega.nz/file/50pSUS4L#ihhAZMc2RpzK6l5HwUIrySAJ5CgY0hF3-Oroi5xcP2s) | Udacity | 3 months | 10 hours / week | self-paced | Intermediate Python & DL
+[AI Product Manager Nanodegree](https://mega.nz/file/F1hUXCIK#0uvURzJv2G3Il39or2PGr90loQUzh9CxqYiqOElxm20) | Udacity | 2 months | 2-5 hours / week | self-paced | none
+[Data Engineering Nanodegree](https://mega.nz/file/14hEiCQB#20knbJN_TMKCk9ckSAGMLpn2W8eURztAO-c-vs2mC1g) | Udacity | 5 months | 5 hrs / week | self-paced | Intermediate Python & SQL
+
+### Contribution Guideline:
+Feel free to open a PR if you feel like something needs to be added or you want to suggest something then your commit message should be in given format: <b>added to -->resource_name-->section_name </b>
 
 #### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it!
 
+### Terms & Conditions:
 <ul>
+    
 <li>Please submit unpublished drafts with at least some Intresting Free resources anout AI.</li>
-<li>Feel free to open a PR if you feel like something needs to be added or you want to suggest something then your commit message should be in given format: <b>added to -->resource_name-->section_name </b></li>
 <li>We do not accept plagiarism. You may reference text from other sources, but it must be referenced ([1][2] and so on), and it cannot exceed 10% of an author’s content. Otherwise, we will reject your article.</li>
 <li>Try to captivate your audience with a nice image — open-source images can be found at Pixabay, Unsplash, StockSnap, Flickr, Pexels, Burst, The Stocks.</li>
 <li>Make sure your story has meaning — give more than you get.</li>
