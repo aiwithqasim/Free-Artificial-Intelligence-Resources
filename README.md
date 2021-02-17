@@ -77,6 +77,7 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://developers.google.com/machine-learning/crash-course" target="_blank"> Machine Learning Crash Course by Google </a></li>
 <li><a href = "https://developers.google.com/machine-learning/crash-course" target="_blank"> Machine Learning Crash Course by Google </a></li>
 <li><a href = "https://www.freecodecamp.org/learn/machine-learning-with-python/" target="_blank"> Machine Learning With Python By FreeCodeCamp</a></li>
+<li><a href = "https://developers.google.com/machine-learning/guides/rules-of-ml" target="_blank"> Best Practices for ML Engineering</a></li>
 </ul>
     
 ### FREE DATA SCIENCE COURSES:
@@ -108,7 +109,6 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://lnkd.in/fpptKs4" target="_blank">Deep Learning Basics</a></li>
 <li><a href = "https://lnkd.in/fZfj3UA" target="_blank">Deep Learning tutorial</a></li>
 <li><a href = "https://www.youtube.com/playlist?list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg" target="_blank">Deep Learning with TensorFlow</a></li>
-<li><a href = "https://course.fast.ai/" target="_blank">Practical Deep Learning for Coders</a></li>
  </ul>
  
 ### DEEP EARNING BY MIT
