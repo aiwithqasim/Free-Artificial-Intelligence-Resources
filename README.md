@@ -1,4 +1,3 @@
-
 <h1 align="center">
     <a href="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/tree/test/Images">
         <img src="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/test/Images/logo.png">
@@ -15,12 +14,12 @@
 ![LinkedIn Follow](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fqasim-hassan%2F)
 ![GitHub stars](https://img.shields.io/github/stars/qasim1020/Free-Artificial-Intelligence-Resources?color=green&logo=GitHub)
 
-
 </h1>
 <br/>
 <br/>
 
 ### Get Published With AI
+
 AI is a world’s leading multidisciplinary science Industry and the future of computing. Here I publish the best and free resources related to AI that have been suggested and read by thought-leaders and decision-makers around the world.
 
 ### Why should you contribute in this OpenSource Project ?
@@ -41,7 +40,6 @@ Therefore, is there a difference between artificial intelligence, machine learni
 
 Here is an image that attempts to visualize the distinction between them:<br>
 
-
 <h1 align="center">
     <a href="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources">
         <img src = "https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/work/Images/Difference.png" width = "380" height = "380" alr = "Image">
@@ -52,8 +50,8 @@ From above image, you can see DL is a subset of ML, which is also a subset of AI
 
 So, AI is the all-encompassing concept that initially erupted, then followed by ML that thrived later, and lastly DL that is promising to escalate the advances of AI to another level. If you want to learn more then click <a href = "https://medium.com/ds3ucsd/explaining-the-terms-ai-ml-dl-ds-b0ac43e99f55">here.</a>
 
-
 ### FREE AI COURSES:
+
 <ul>
 <li><a href = "https://www.edx.org/course/artificial-intelligence-ai" target="_blank"> EdX’s Artificial Intelligence </a></li>
 <li><a href = "https://www.udacity.com/course/intro-to-artificial-intelligence--cs271" target="_blank"> Udacity’s Intro to Artificial Intelligence </a></li>
@@ -65,6 +63,7 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 </ul>
 
 ### FREE MACHINE LEARNING COURSES:
+
 <ul>
 <li><a href = "https://www.coursera.org/learn/machine-learning" target="_blank"> Machine Learning by Andrew NG </a></li>
 <li><a href = "https://www.udacity.com/course/intro-to-machine-learning--ud120" target="_blank"> Intro to ML by Udacity </a></li>
@@ -78,6 +77,7 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://developers.google.com/machine-learning/crash-course" target="_blank"> Machine Learning Crash Course by Google </a></li>
 <li><a href = "https://developers.google.com/machine-learning/crash-course" target="_blank"> Machine Learning Crash Course by Google </a></li>
 <li><a href = "https://www.freecodecamp.org/learn/machine-learning-with-python/" target="_blank"> Machine Learning With Python By FreeCodeCamp</a></li>
+<li><a href = "https://developers.google.com/machine-learning/guides/rules-of-ml" target="_blank"> Best Practices for ML Engineering</a></li>
 </ul>
     
 ### FREE DATA SCIENCE COURSES:
@@ -89,6 +89,7 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 </ul>
 
 ### DATASET REPOSITORIES:
+
 <ul>
     <li><a href = "https://data.world/datasets/open-data" target="_blank">Data World</a></li>
     <li><a href = "https://datasetsearch.research.google.com/" target="_blank">Google Data Sets</a></li>
@@ -96,6 +97,7 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 </ul>
 
 ### FREE DEEP LEARNING COURSES:
+
 <ul>
 <li><a href = "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187" target="_blank"> Google’s Deep Learning Course </a></li>
 <li><a href = "https://course.fast.ai/" target="_blank"> Practical Deep Learning for Coders </a></li>
@@ -120,6 +122,7 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 </ul>
 
 ### STATISTICAL SOFTWARE FOR BEGINNERS
+
 <ul>
     <li><a href = "https://lnkd.in/ecfsV9c">Simple Linear Regression</a></li>
     <li><a href = "https://lnkd.in/ef7Yd7f">Coding Dummy Variables</a></li>
@@ -130,16 +133,19 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 </ul>
 
 ### FREE NLP COURSES:
+
 <ul>
 <li><a href = "https://www.fast.ai/2019/07/08/fastai-nlp/" target="_blank"> A Code-First Introduction to Natural Language Processing </a></li>
 </ul>
 
 ### FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES
+
 <ul>
 <li><a href = "https://www.neuralrender.com/" target="_blank"> CVPR 2020: Neural Rendering </a></li>
 </ul>
 
 ### AI RESEARCH AT BIG COMPANIES:
+
 <ul>
 <li><a href = "https://machinelearning.apple.com/" target="_blank"> Machine Learning at Apple </a></li>
 <li><a href = "https://www.uber.com/us/en/uberai/" target="_blank"> AI at Uber </a></li>
@@ -159,6 +165,7 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 </ul>
 
 ### DEVELOPER RESOURCES:
+
 <ul>
 <li><a href = "https://developer.apple.com/machine-learning/" target="_blank"> Apple Resources </a></li>
 <li><a href = "https://cloud.google.com/products/ai" target="_blank"> Google Resources </a></li>
@@ -179,20 +186,22 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 
 ### Course Downloads
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Machine Learning Engineer Nanodegree](https://mega.nz/file/B1wUgaxJ#7DGzzv9qhEsFtSVhKoe8pkc1FcA0ZjIpldqDZoKyC1M) | Udacity | 3 months | 10 hours / week | self-paced | Intermediate Python & ML
-[AI for Healthcare Nanodegree Program](https://mega.nz/file/445mVAIT#O8_7ZquR2IEpv7vvs_B_iJVe8kdsat3rljzQOS8goG0) | Udacity | 4 months | 15 hours / week | self-paced | Intermediate Python & ML
-[Intel® Edge AI for IoT Developers Nanodegree Program](https://mega.nz/file/50pSUS4L#ihhAZMc2RpzK6l5HwUIrySAJ5CgY0hF3-Oroi5xcP2s) | Udacity | 3 months | 10 hours / week | self-paced | Intermediate Python & DL
-[AI Product Manager Nanodegree](https://mega.nz/file/F1hUXCIK#0uvURzJv2G3Il39or2PGr90loQUzh9CxqYiqOElxm20) | Udacity | 2 months | 2-5 hours / week | self-paced | none
-[Data Engineering Nanodegree](https://mega.nz/file/14hEiCQB#20knbJN_TMKCk9ckSAGMLpn2W8eURztAO-c-vs2mC1g) | Udacity | 5 months | 5 hrs / week | self-paced | Intermediate Python & SQL
+| Courses                                                                                                                           | School  | Duration |      Effort      | Frequency  |       Prerequisites       |
+| :-------------------------------------------------------------------------------------------------------------------------------- | :-----: | :------: | :--------------: | :--------: | :-----------------------: |
+| [Machine Learning Engineer Nanodegree](https://mega.nz/file/B1wUgaxJ#7DGzzv9qhEsFtSVhKoe8pkc1FcA0ZjIpldqDZoKyC1M)                 | Udacity | 3 months | 10 hours / week  | self-paced | Intermediate Python & ML  |
+| [AI for Healthcare Nanodegree Program](https://mega.nz/file/445mVAIT#O8_7ZquR2IEpv7vvs_B_iJVe8kdsat3rljzQOS8goG0)                 | Udacity | 4 months | 15 hours / week  | self-paced | Intermediate Python & ML  |
+| [Intel® Edge AI for IoT Developers Nanodegree Program](https://mega.nz/file/50pSUS4L#ihhAZMc2RpzK6l5HwUIrySAJ5CgY0hF3-Oroi5xcP2s) | Udacity | 3 months | 10 hours / week  | self-paced | Intermediate Python & DL  |
+| [AI Product Manager Nanodegree](https://mega.nz/file/F1hUXCIK#0uvURzJv2G3Il39or2PGr90loQUzh9CxqYiqOElxm20)                        | Udacity | 2 months | 2-5 hours / week | self-paced |           none            |
+| [Data Engineering Nanodegree](https://mega.nz/file/14hEiCQB#20knbJN_TMKCk9ckSAGMLpn2W8eURztAO-c-vs2mC1g)                          | Udacity | 5 months |   5 hrs / week   | self-paced | Intermediate Python & SQL |
 
 ### Contribution Guideline:
+
 Feel free to open a PR if you feel like something needs to be added or you want to suggest something then your commit message should be in given format: <b>added to -->resource_name-->section_name </b>
 
 #### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it!
 
 ### Terms & Conditions:
+
 <ul>
     
 <li>Please submit unpublished drafts with at least some Intresting Free resources anout AI.</li>
@@ -205,4 +214,5 @@ Feel free to open a PR if you feel like something needs to be added or you want 
 </ul>
 
 ### Important Notice:
+
 <i>All product names, logos, and brands are property of their respective owners. All company, product and service names used in this repository are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.</i>
