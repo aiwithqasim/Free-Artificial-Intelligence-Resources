@@ -60,6 +60,7 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://cognitiveclass.ai/" target="_blank"> IBM's Data Science and Cognitive Computing courses </a></li>
 <li><a href = "http://introtodeeplearning.com/" target="_blank">MIT Deep Learning</a></li>
 <li><a href = "https://course.elementsofai.com/" target="_blank">Elements of AI</a></li>
+
 </ul>
 
 ### FREE MACHINE LEARNING COURSES:
@@ -75,13 +76,17 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://www.edx.org/course/principles-of-machine-learning" target="_blank"> EdX’s Principles of Machine Learning </a></li>
 <li><a href = "https://www.coursera.org/specializations/machine-learning" target="_blank"> Coursera’s Machine Learning Specialization </a></li>
 <li><a href = "https://developers.google.com/machine-learning/crash-course" target="_blank"> Machine Learning Crash Course by Google </a></li>
-<li><a href = "https://developers.google.com/machine-learning/crash-course" target="_blank"> Machine Learning Crash Course by Google </a></li>
 <li><a href = "https://www.freecodecamp.org/learn/machine-learning-with-python/" target="_blank"> Machine Learning With Python By FreeCodeCamp</a></li>
 <li><a href = "https://developers.google.com/machine-learning/guides/rules-of-ml" target="_blank"> Best Practices for ML Engineering</a></li>
+<li><a href = "https://www.datacamp.com/courses/introduction-to-machine-learning-with-r?tap_a=5644-dce66f&tap_s=463826-784532" target="_blank"> Machine Learning for Everyone By DataCamp</a></li>
+<li><a href = "https://www.edx.org/course/machine-learning?source=aw&awc=6798_1614274764_b3bfe84c18956c66ee65375b0eaaaf0c&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F" target="_blank"> Machine Learning by EdX's (Columbia University)</a></li>
+<li><a href = "https://www.classcentral.com/course/edx-machine-learning-15170" target="_blank"> Machine Learning by EdX's (The University of Texas)</a></li>
 </ul>
     
 ### FREE DATA SCIENCE COURSES:
 <ul>
+<li><a href = "https://cognitiveclass.ai/courses/data-science-101/" target="_blank">Introduction to Data Science</a></li>
+<li><a href = "https://cognitiveclass.ai/learn/data-science-with-python" target="_blank">Applied Data Science with Python</a></li>
 <li><a href = "https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank"> IBM Data Science Professional Certificate </a></li>
 <li><a href = "https://lnkd.in/fhEUuXMe" target="_blank">Data Science Training Videos</a></li>
 <li><a href = "https:/<li><a href = "https://lnkd.in/f6CAxe7" target="_blank">Data Analysis in Python and Pandas</a>
@@ -136,6 +141,8 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 
 <ul>
 <li><a href = "https://www.fast.ai/2019/07/08/fastai-nlp/" target="_blank"> A Code-First Introduction to Natural Language Processing </a></li>
+<li><a href = "https://www.coursera.org/learn/natural-language-processing-captsone-assignment?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-G8iHGDKtNNL0h3iGqkKUEA&siteID=SAyYsTvLiGQ-G8iHGDKtNNL0h3iGqkKUEA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ">Natural Language Processing and Capstone Assignment</a></li>
+<li><a href = "https://www.coursera.org/learn/probabilistic-models-in-nlp?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-pCFkgjt7SAvOT.AcBvMP_w&siteID=SAyYsTvLiGQ-pCFkgjt7SAvOT.AcBvMP_w&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ" target="_blank"> Natural Language Processing with Probabilistic Models </a></li>
 </ul>
 
 ### FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES
