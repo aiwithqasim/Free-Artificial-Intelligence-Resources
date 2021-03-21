@@ -179,6 +179,15 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://developers.facebook.com/developercircles/learn/" target="_blank"> Facebook Resources </a></li>
 </ul>
 
+### AI CHEAT-SHEETS:
+<ul>
+ <li><a href = "https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7" target="_blank"> Best of AI Cheat-Sheets </a></li>  
+ <li><a href = "https://github.com/afshinea/stanford-cs-229-machine-learning" target="_blank"> Stanford CS229 Machine Learning </a></li>
+ <li><a href = "https://github.com/afshinea/stanford-cs-230-deep-learning" target="_blank"> Stanford CS230 Deep Learning </a></li> 
+ <li><a href = "https://github.com/afshinea/stanford-cs-221-artificial-intelligence" target="_blank"> Stanford CS221 Artificial Intelligence </a></li> 
+ <li><a href = "http://www.aicheatsheets.com/" target="_blank"> Collection of AI Cheat-Sheets </a></li> 
+</ul>
+
 ### YOUTUBE CHANNELS
 
 <ul>
