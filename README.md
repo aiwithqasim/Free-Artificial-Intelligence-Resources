@@ -42,7 +42,7 @@ Here is an image that attempts to visualize the distinction between them:<br>
 
 <h1 align="center">
     <a href="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources">
-        <img src = "https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/work/Images/Difference.png" width = "380" height = "380" alr = "Image">
+        <img src = "https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/test/Images/Difference.png" width = "380" height = "380" alr = "Image">
     </a>   
 </h1>
 
