@@ -107,6 +107,7 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
     <li><a href = 'https://tianchi.aliyun.com/competition/gameList/activeList'>Tianchi</a></li>
     <li><a href = 'https://omdena.com/'>Omdena</a></li>
     <li><a href = 'https://www.hackerearth.com/hackathon/explore/field/machine-learning/'>HackerEarth</a></li>
+    <li><a href = 'https://www.aicrowd.com/'>aicrowd</a></li>
 </ul>    
 
 ### FREE DEEP LEARNING COURSES:
