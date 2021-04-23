@@ -81,7 +81,7 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://www.datacamp.com/courses/introduction-to-machine-learning-with-r?tap_a=5644-dce66f&tap_s=463826-784532" target="_blank"> Machine Learning for Everyone By DataCamp</a></li>
 <li><a href = "https://www.edx.org/course/machine-learning?source=aw&awc=6798_1614274764_b3bfe84c18956c66ee65375b0eaaaf0c&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F" target="_blank"> Machine Learning by EdX's (Columbia University)</a></li>
 <li><a href = "https://www.classcentral.com/course/edx-machine-learning-15170" target="_blank"> Machine Learning by EdX's (The University of Texas)</a></li>
-<li><a href = "https://developers.google.com/machine-learning/crash-course?>Machine Learning Crash Course by Google</a></li>
+<li><a href = "https://developers.google.com/machine-learning/crash-course?">Machine Learning Crash Course by Google</a></li>
 </ul>
     
 ### FREE DATA SCIENCE COURSES:
