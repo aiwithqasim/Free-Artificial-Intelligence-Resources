@@ -107,7 +107,7 @@ Here is an image that attempts to visualize the distinction between them:<br>
 
 <h1 align="center">
     <a href="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources">
-        <img src = "https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/work/Images/Difference.png" width = "380" height = "380" alr = "Image">
+        <img src = "https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/test/Images/Difference.png" width = "380" height = "380" alr = "Image">
     </a>   
 </h1>
 
@@ -146,6 +146,9 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://www.datacamp.com/courses/introduction-to-machine-learning-with-r?tap_a=5644-dce66f&tap_s=463826-784532" target="_blank"> Machine Learning for Everyone By DataCamp</a></li>
 <li><a href = "https://www.edx.org/course/machine-learning?source=aw&awc=6798_1614274764_b3bfe84c18956c66ee65375b0eaaaf0c&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F" target="_blank"> Machine Learning by EdX's (Columbia University)</a></li>
 <li><a href = "https://www.classcentral.com/course/edx-machine-learning-15170" target="_blank"> Machine Learning by EdX's (The University of Texas)</a></li>
+<li><a href = "https://developers.google.com/machine-learning/crash-course?">Machine Learning Crash Course by Google</a></li>
+<li><a href = "https://www.w3schools.com/python/python_ml_getting_started.asp">Machine Learning Course at W3Schools</a></li>
+<li><a href = "https://www.kaggle.com/learn/intro-to-machine-learning">Intro to Machine Learning Course at Kaggle</a></li>
 </ul>
     
 ### FREE DATA SCIENCE COURSES:
@@ -165,6 +168,15 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
     <li><a href = "https://datasetsearch.research.google.com/" target="_blank">Google Data Sets</a></li>
     <li><a href = "https://www.kaggle.com/datasets" target="_blank">Kaggle Data Sets</a></li>
 </ul>
+
+### COMPETITION PLATFORMS
+<ul>
+    <li><a href = 'https://numer.ai/'>Numerai</a></li>
+    <li><a href = 'https://tianchi.aliyun.com/competition/gameList/activeList'>Tianchi</a></li>
+    <li><a href = 'https://omdena.com/'>Omdena</a></li>
+    <li><a href = 'https://www.hackerearth.com/hackathon/explore/field/machine-learning/'>HackerEarth</a></li>
+    <li><a href = 'https://www.aicrowd.com/'>aicrowd</a></li>
+</ul>    
 
 ### FREE DEEP LEARNING COURSES:
 
