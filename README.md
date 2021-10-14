@@ -1,4 +1,4 @@
-![hacktoberfest](./src/assets/Hacktoberfest.png)
+![hacktoberfest](https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/test/Images/hacktoberfest.png)
 <div align="center">
 	<p>
         <b><i>Let's Contribute To Open-source</i></b>
