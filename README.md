@@ -1,4 +1,4 @@
-![hacktoberfest](https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/test/Images/hacktoberfest.png)
+![hacktoberfest](https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/main/Images/hacktoberfest.png)
 <div align="center">
 	<p>
         <b><i>Let's Contribute To Open-source</i></b>
@@ -64,13 +64,10 @@ git push -u origin your_github_username
 >Note: Those repositories who have `hacktoberfest` as a label are considered for Hacktoberfest challenge only.
 
 <h1 align="center">
-    <a href="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/tree/test/Images">
-        <img src="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/test/Images/logo.png">
-    </a>
     <br/>
     <br/>
 
-  <img src="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/test/Images/companies.jpg">
+  <img src="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/main/Images/companies.jpg">
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/qasim1020/Free-Artificial-Intelligence-Resources/test?color=%09%23008000&logo=github)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/qasim1020/Free-Artificial-Intelligence-Resources?color=green&logo=Github)
@@ -107,7 +104,7 @@ Here is an image that attempts to visualize the distinction between them:<br>
 
 <h1 align="center">
     <a href="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources">
-        <img src = "https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/test/Images/Difference.png" width = "380" height = "380" alr = "Image">
+        <img src = "https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/main/Images/Difference.png" width = "380" height = "380" alr = "Image">
     </a>   
 </h1>
 
