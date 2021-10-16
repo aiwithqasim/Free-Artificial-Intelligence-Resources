@@ -146,6 +146,7 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://developers.google.com/machine-learning/crash-course?">Machine Learning Crash Course by Google</a></li>
 <li><a href = "https://www.w3schools.com/python/python_ml_getting_started.asp">Machine Learning Course at W3Schools</a></li>
 <li><a href = "https://www.kaggle.com/learn/intro-to-machine-learning">Intro to Machine Learning Course at Kaggle</a></li>
+<li><a href = "https://courses.analyticsvidhya.com/courses/Machine-Learning-Certification-Course-for-Beginners"> Machine Learning Certification For Beginners By Analytics Vidhya</a></li>
 </ul>
     
 ### FREE DATA SCIENCE COURSES:
